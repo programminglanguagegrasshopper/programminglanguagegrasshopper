@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @programminglanguagegrasshopper
-- 🌱 I’m currently developing an operating system,
-- 💞️ I’m looking to collaborate with someone to do it
+- 👋 Hi, I’m @programminglanguagegrasshopper a.k.a mghp the fish
+- 🐟 You are a fish!1!!!111!
+- 🌱 Currently working on BTerminal
+- 💞 help me make bterminal it's so hard
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=programminglanguagegrasshopper&show_icons=true)
 
